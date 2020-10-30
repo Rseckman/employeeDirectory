@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/static/v1?label=JavaScript&message=language&color=brightgreen)
 
 ## Deployed Site:
-https://rseckman.github.io/employee-directory/
+https://employee-directory-cartoons.herokuapp.com/
 
 ![IMAGE](/public/images/screenshot.png)
 
